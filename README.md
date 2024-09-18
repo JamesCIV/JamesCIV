@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesCIV
 - 👀 I’m interested in learning AI to pivot my career
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on investment algorithms...or write blistering guitar solos
+- 💞️ I’m looking to collaborate on AI investment algorithms...or have AI write blistering guitar solos
 - ⚡ Fun fact: The term "AI" was invented at my college.
 
 <!---
